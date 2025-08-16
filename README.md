@@ -8,6 +8,8 @@ This project involves developing a traffic light controller using a PIC16f877A m
 ## 🎥Video
 ![Traffic Light Control System](https://github.com/user-attachments/assets/6c84cf46-eb27-406a-97cc-a920120c7a34)
 
+> *Click the image above to watch the video on YouTube.*
+> 
 https://youtu.be/IbZfKh8P7hs?si=Hm8o15oB4-U-4t03
 
 
