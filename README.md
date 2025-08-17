@@ -13,6 +13,6 @@ This project involves developing a traffic light controller using a PIC16f877A m
 > 
 https://youtu.be/IbZfKh8P7hs?si=Hm8o15oB4-U-4t03
 ##  💡Explaining the features of the PIC16F877A microcontroller and the code flow
-To understand the basic concept of the PIC16F877A microcontroller and its features, and the FlowChart explains an overview of the code flow, see the PDF file uploaded above with the rest of the files. 
+To understand the basic concept of the PIC16F877A microcontroller and its features, and the FlowChart explains an overview of the code flow, see the PDF (Embedded System project report.pdf) file uploaded above with the rest of the files. 
 
 >If you are unable to see all the pages, download the PDF file.
